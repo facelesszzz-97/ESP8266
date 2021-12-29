@@ -1,19 +1,20 @@
 [submodule "components/json/cJSON"]
-	path = components/json/cJSON
-	url = ../../DaveGamble/cJSON.git
+        path = components/json/cJSON
+        url = https://gitee.com/xuhongv/cJSON.git
 
 [submodule "components/mbedtls/mbedtls"]
-	path = components/mbedtls/mbedtls
-	url = ../../espressif/mbedtls.git
+        path = components/mbedtls/mbedtls
+        url = https://gitee.com/xuhongv/mbedtls.git
 
 [submodule "components/lwip/lwip"]
-	path = components/lwip/lwip
-	url = ../../espressif/esp-lwip.git
+        path = components/lwip/lwip
+        url = https://gitee.com/xuhongv/esp-lwip.git
 
 [submodule "components/mqtt/esp-mqtt"]
-	path = components/mqtt/esp-mqtt
-	url = ../../espressif/esp-mqtt.git
+        path = components/mqtt/esp-mqtt
+        url = https://gitee.com/xuhongv/esp-mqtt.git
 
 [submodule "components/coap/libcoap"]
-	path = components/coap/libcoap
-	url = ../../obgm/libcoap.git
+        path = components/coap/libcoap
+        url = https://gitee.com/xuhongv/libcoap.git
+
